@@ -1,12 +1,16 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int xor=0;
-        for(int i=0; i<nums.length; i++){
-            xor^=nums[i];
+        HashMap<Integer,Integer>map=new HashMap<>();
+        for(int i:nums){
+            int c=map.getOrDefault(i,0);
+            map.put(i,c+1);
         }
-        return xor;
-       
+        //keyset bcz key is unique
+        for(int k:map.keySet()){
+            int fr=map.get(k);
+            if(fr==1)return k;
 
-        
+        }
+        return -1;
     }
 }
