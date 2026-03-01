@@ -1,5 +1,6 @@
 class Solution {
     public void sortColors(int[] nums) {
-         Arrays.sort(nums);
+        //inplace mtlb hume 
+        Arrays.sort(nums);
     }
 }
