@@ -41,4 +41,8 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/vishusharma2345/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
