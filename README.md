@@ -12,6 +12,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vishusharma2345/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/vishusharma2345/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ Daily Questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vishusharma2345/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishusharma2345/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Dynamic Programming
