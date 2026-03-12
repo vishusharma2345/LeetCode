@@ -12,6 +12,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vishusharma2345/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vishusharma2345/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +34,7 @@ Daily Questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishusharma2345/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -65,4 +68,8 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vishusharma2345/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
