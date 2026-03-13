@@ -1,29 +1,21 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        char[] ch=s1.toCharArray();
-       int k=ch.length;
-       for(int i=0; i<=s2.length()-k; i++){
-        String sub=s2.substring(i,i+k);
-        if (isanagram(s1,sub)){
-            return true;
-
-        }}
-       return false;
-       }
-    
-
-
-       
-       public static boolean isanagram(String s1, String s2){
-       int []fr1=new int[26];
-       for(char ch:s1.toCharArray()){
-        fr1[ch-'a']++;
-       }
-       int [] fr2=new int [26];
-       for(char ch:s2.toCharArray()){
-        fr2[ch-'a']++;
-       }
-       return Arrays.equals(fr1,fr2);
-       }
-        
+        if(s1.length()>s2.length())return false;
+        int[]f1=new int [26];
+        int []f2=new int[26];
+        for(char c:s1.toCharArray()){
+            f1[c-'a']++;
+        }
+        int k=s1.length();
+        for(int i=0; i<s2.length(); i++){
+            f2[s2.charAt(i)-'a']++;
+            if(i>=k){
+                f2[s2.charAt(i-k)-'a']--;
+            }
+            if(Arrays.equals(f1,f2)){
+                return true;
+            }
+        }
+        return false;
+    }
 }
