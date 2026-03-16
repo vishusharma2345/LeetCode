@@ -8,6 +8,7 @@ Daily Questions
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vishusharma2345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/vishusharma2345/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishusharma2345/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ Daily Questions
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vishusharma2345/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/vishusharma2345/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ Daily Questions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -86,11 +89,13 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/vishusharma2345/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishusharma2345/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vishusharma2345/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishusharma2345/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -112,4 +117,8 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/vishusharma2345/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
