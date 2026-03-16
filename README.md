@@ -10,6 +10,7 @@ Daily Questions
 | [0169-majority-element](https://github.com/vishusharma2345/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/vishusharma2345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/vishusharma2345/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishusharma2345/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Two Pointers
@@ -30,6 +31,7 @@ Daily Questions
 | [0169-majority-element](https://github.com/vishusharma2345/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishusharma2345/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/vishusharma2345/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@ Daily Questions
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishusharma2345/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/vishusharma2345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/vishusharma2345/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
