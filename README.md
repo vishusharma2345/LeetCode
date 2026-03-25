@@ -49,6 +49,7 @@ Daily Questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vishusharma2345/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishusharma2345/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
@@ -153,4 +154,8 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
