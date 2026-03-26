@@ -18,6 +18,7 @@ Daily Questions
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vishusharma2345/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishusharma2345/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3548-equal-sum-grid-partition-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Daily Questions
 | [0496-next-greater-element-i](https://github.com/vishusharma2345/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vishusharma2345/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@ Daily Questions
 | [2906-construct-product-matrix](https://github.com/vishusharma2345/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vishusharma2345/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +153,7 @@ Daily Questions
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/vishusharma2345/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vishusharma2345/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +172,8 @@ Daily Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vishusharma2345/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3548-equal-sum-grid-partition-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 <!---LeetCode Topics End-->
