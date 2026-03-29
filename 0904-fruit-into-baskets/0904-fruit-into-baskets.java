@@ -1,29 +1,29 @@
 class Solution {
     public int totalFruit(int[] fruits) {
         
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int s = 0;
-        int max = 0;
-
-        for(int e = 0; e < fruits.length; e++) {
-
-            // add fruit in window
-            map.put(fruits[e], map.getOrDefault(fruits[e], 0) + 1);
-
-            // shrink window if types > 2
-            while(map.size() > 2) {
-                map.put(fruits[s], map.get(fruits[s]) - 1);
-
-                if(map.get(fruits[s]) == 0) {
-                    map.remove(fruits[s]);
-                }
-                s++;
+        int type=0;
+        int max=0;
+        int start=0;
+        //size has taken of fr array due to constraints of question
+        int []fr=new int[100001];
+        //here i is referring to the end point of the fruits array
+        for(int i=0; i<fruits.length; i++){
+            int f=fruits[i];
+            if(fr[f]==0){
+                type++;
             }
-
-            // update answer
-            max = Math.max(max, e - s + 1);
+            fr[f]++;
+            while(type>2){
+                int sf=fruits[start];
+                fr[sf]--;
+                if(fr[sf]==0){
+                    type--;
+                }
+                start++;
+            }
+            int size=i-start+1;
+            max=Math.max(max,size);
         }
-
         return max;
     }
 }
