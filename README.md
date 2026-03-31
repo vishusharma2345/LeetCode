@@ -14,6 +14,7 @@ Daily Questions
 | [0713-subarray-product-less-than-k](https://github.com/vishusharma2345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/vishusharma2345/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vishusharma2345/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vishusharma2345/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -48,6 +49,7 @@ Daily Questions
 | [0496-next-greater-element-i](https://github.com/vishusharma2345/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vishusharma2345/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vishusharma2345/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Divide and Conquer
@@ -87,6 +89,7 @@ Daily Questions
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/vishusharma2345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vishusharma2345/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/vishusharma2345/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -137,6 +140,7 @@ Daily Questions
 | [0567-permutation-in-string](https://github.com/vishusharma2345/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/vishusharma2345/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vishusharma2345/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/vishusharma2345/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vishusharma2345/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
