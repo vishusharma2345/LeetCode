@@ -27,6 +27,7 @@ Daily Questions
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishusharma2345/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vishusharma2345/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/vishusharma2345/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vishusharma2345/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Two Pointers
@@ -94,6 +95,7 @@ Daily Questions
 | [0032-longest-valid-parentheses](https://github.com/vishusharma2345/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/vishusharma2345/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vishusharma2345/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ Daily Questions
 | [2906-construct-product-matrix](https://github.com/vishusharma2345/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vishusharma2345/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vishusharma2345/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vishusharma2345/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vishusharma2345/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
